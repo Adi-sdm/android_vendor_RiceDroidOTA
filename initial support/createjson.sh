@@ -3,6 +3,7 @@
 
 #modify values below
 #leave blank if not used
+
 maintainer="Name (nickname)" #ex: Lup Gabriel (gwolfu)
 oem="OEM" #ex: OnePlus
 device="device codename" #ex: guacamole
